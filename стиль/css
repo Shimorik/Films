@@ -1,0 +1,61 @@
+body {
+   margin: 0px;
+    font-family: sans-serif;
+}
+body header{
+    margin: 0px;
+}
+.icon{
+    text-align:center;
+    height:650px;  
+    width:420px;
+
+}
+
+h1{
+    padding:10px;
+     text-align:center;
+    color:#8A2BE2;
+margin: 0px;
+}
+h2{
+    text-align:center;
+color:#4B0082;
+margin: 0px;
+}
+p{
+color:indigo;
+ text-align:center;
+
+}
+footer{
+     background: content-box radial-gradient(rgba(14, 224, 179, 0.836), #d42eda);
+margin: 0px;
+}
+footer p {
+    margin: 0px;
+    text-align: left;
+}
+nav{
+    text-decoration:none;
+    border-radius:10px;
+}
+header{
+    background-color:black ;
+}
+
+main{
+border-collapse: collapse;
+     background: content-box radial-gradient(crimson, skyblue);
+     margin: 0px;
+}
+h3{
+    color:rgba(129, 17, 221, 0.541);
+    border: 10px;
+    text-align:center;
+}
+a {
+ text-decoration:none;
+   
+}
+
